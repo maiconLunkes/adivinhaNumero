@@ -1,2 +1,0 @@
-# adivinhaNumero
-Created with CodeSandbox
